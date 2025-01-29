@@ -1,0 +1,92 @@
+
+@article{siposova_data_2023,
+	title = {Data {Exfiltration} {Attacks} and {Defenses} in {Neural} {Networks}},
+	url = {https://repositum.tuwien.at/handle/20.500.12708/187491},
+	doi = {10.34726/HSS.2023.92803},
+	abstract = {Quality of data directly impacts the effectiveness of machine learning models and its acquisition often involves substantial investments. Confidentiality issues concerning data, especially when sensitive information is involved, therefore become increasingly pertinent. Third-party algorithms employed for building machine learning models can pose a risk to the confidentiality of such valuable data, as their capacity can be exploited to hide the training data, which can be subsequently exfiltrated by an adversary. We introduce a taxonomy of data exfiltration attacks. Further, we simulate such attacks in two scenarios depending on the access an adversary has to the final, trained model - a white-box or a black-box scenario. To perform the attacks, we adapt a previously introduced approach (by Song et al.) to work with artificial neural networks trained on tabular data. We measure the utility of the attacks by calculating the similarity of exfiltrated data to the original data and determine the attack settings leading to a 100{\textbackslash}\% similarity of exfiltrated data. Additionally, we measure the impact these attacks have on the prediction effectiveness of the models on the original classification task. Subsequently, we implement corresponding defense methods. We show that the chosen defense strategies are successful at mitigating the impact of the attacks, without compromising the model performance, even when the adversary attempts to increase the robustness of the attacks (e.g. by employing error correction techniques). Moreover, we show that the application of the defenses does not compromise the performance of the base (i.e. not attacked) models, which hints at their universality.},
+	language = {en},
+	urldate = {2025-01-29},
+	author = {Siposova, Andrea},
+	collaborator = {Rauber, Andreas and Mayer, Rudolf},
+	year = {2023},
+	note = {Artwork Size: 113 pages
+Medium: application/pdf
+Publisher: TU Wien},
+	keywords = {adversarial attacks, data confidentiality, deep learning, defenses, exfiltration attacks, information hiding, machine learning, neural networks, steganography},
+	pages = {113 pages},
+}
+
+@inproceedings{waltersdorfer_adopting_2024,
+	title = {Adopting {FAIR} data management practices in mountain hazard research: {Strategies} for ensuring data quality for landslide susceptibility modeling},
+	shorttitle = {Adopting {FAIR} data management practices in mountain hazard research},
+	url = {https://meetingorganizer.copernicus.org/EGU24/EGU24-18951.html},
+	doi = {10.5194/egusphere-egu24-18951},
+	abstract = {Mountainous regions such as the Austrian Alps face a constant threat of natural hazards. Over time, this persistent danger has prompted a transition from heuristic hazard management strategies towards a more quantified risk culture. Since quantitative risk assessment heavily relies on understanding the occurrence frequency of the hazard processes under consideration, knowledge about past events and their characteristics becomes pivotal, thereby shaping the effectiveness and broader applicability of methodological workflows employed in this context.We present challenges, and insights gleaned from the research project \&\#8220;gAia\&\#8221;, focusing on a data-driven susceptibility assessment for shallow landslides in Austria. The identified challenges mainly revolve around the quality of landslide inventories, which is influenced by factors like underreporting, inconsistent documentation, and lack of standardized data management practices. We thus recommend adopting FAIR (Findability, Accessibility, Interoperability, Reusability) principles and developing Data Management Plans to address these issues, and propose a general data management workflow:Identify data sources and contents: Collect information about data sources and characteristics in a (machine-readable) DMP to obtain an overview of all data sources and most important characteristics (e.g. format, size, license, context, bias limitations). This should support the contextualization and ability to reuse this data.
+Define processing activities: Explicitly define processing workflows to enhance reproducibility and transparency, using established standards such as Business Process Management (BPMN) or semantic web technologies to represent complex processes formally and make them more comparable and accessible to users.
+Define (meta)-data and process activities trace templates: Provide metadata templates for datasets and trace processing activities to improve interoperability and reusability. Define domain-specific vocabularies and use concepts such as datasheets, model cards, ML experiment tracking and model registry tools as well as task orchestration platforms for data engineering pipelines to make results more traceable and reviewable.\&\#160;
+Monitoring processes for natural hazard event data: Implement processes to ensure adherence to quality metrics, with results published in machine-readable formats.
+We detail the implementation of these steps using established concepts of traceability and provenance, and encourage to implement workflow tasks using common open source programming languages. In addition, we endorse the use of Git for version control and GitLab/GitHub as tools for facilitating collaboration and structuring technical tasks.The benefits of the proposed data management strategies for enhancing quality and reliability of data as well as increasing overall transparency of processes are showcased in the gAia project. The project workflow, represented as a P-Plan, demonstrates the application of these strategies in different phases. Specifically, the importance of proper data management and adherence to FAIR principles for data-driven research and practical usability is highlighted using landslide inventories as a core example.In summary, we provide insights into the complexities of geospatial data management in mountain hazard research and offer practical solutions to enhance the integrity and reliability of data for supporting effective risk assessment and disaster risk reduction.gAia is funded through the KIRAS Security Research Program for Cooperative Research and Innovation Projects by the Austrian Research Promotion Agency (FFG) and the Federal Ministry of Finance, under grant agreement FO99988636910.\&\#160;},
+	urldate = {2025-01-29},
+	author = {Waltersdorfer, Laura and Siposova, Andrea and Schlögl, Matthias and Mayer, Rudolf},
+	month = jan,
+	year = {2024},
+}
+
+@article{bachhofner_generalized_2020,
+	title = {Generalized {Sparse} {Convolutional} {Neural} {Networks} for {Semantic} {Segmentation} of {Point} {Clouds} {Derived} from {Tri}-{Stereo} {Satellite} {Imagery}},
+	volume = {12},
+	copyright = {https://creativecommons.org/licenses/by/4.0/},
+	issn = {2072-4292},
+	url = {https://www.mdpi.com/2072-4292/12/8/1289},
+	doi = {10.3390/rs12081289},
+	abstract = {We studied the applicability of point clouds derived from tri-stereo satellite imagery for semantic segmentation for generalized sparse convolutional neural networks by the example of an Austrian study area. We examined, in particular, if the distorted geometric information, in addition to color, influences the performance of segmenting clutter, roads, buildings, trees, and vehicles. In this regard, we trained a fully convolutional neural network that uses generalized sparse convolution one time solely on 3D geometric information (i.e., 3D point cloud derived by dense image matching), and twice on 3D geometric as well as color information. In the first experiment, we did not use class weights, whereas in the second we did. We compared the results with a fully convolutional neural network that was trained on a 2D orthophoto, and a decision tree that was once trained on hand-crafted 3D geometric features, and once trained on hand-crafted 3D geometric as well as color features. The decision tree using hand-crafted features has been successfully applied to aerial laser scanning data in the literature. Hence, we compared our main interest of study, a representation learning technique, with another representation learning technique, and a non-representation learning technique. Our study area is located in Waldviertel, a region in Lower Austria. The territory is a hilly region covered mainly by forests, agriculture, and grasslands. Our classes of interest are heavily unbalanced. However, we did not use any data augmentation techniques to counter overfitting. For our study area, we reported that geometric and color information only improves the performance of the Generalized Sparse Convolutional Neural Network (GSCNN) on the dominant class, which leads to a higher overall performance in our case. We also found that training the network with median class weighting partially reverts the effects of adding color. The network also started to learn the classes with lower occurrences. The fully convolutional neural network that was trained on the 2D orthophoto generally outperforms the other two with a kappa score of over 90\% and an average per class accuracy of 61\%. However, the decision tree trained on colors and hand-crafted geometric features has a 2\% higher accuracy for roads.},
+	language = {en},
+	number = {8},
+	urldate = {2025-01-29},
+	journal = {Remote Sensing},
+	author = {Bachhofner, Stefan and Loghin, Ana-Maria and Otepka, Johannes and Pfeifer, Norbert and Hornacek, Michael and Siposova, Andrea and Schmidinger, Niklas and Hornik, Kurt and Schiller, Nikolaus and Kähler, Olaf and Hochreiter, Ronald},
+	month = apr,
+	year = {2020},
+	pages = {1289},
+	file = {Full Text:/Users/andreasiposova/Zotero/storage/MAT257CK/Bachhofner et al. - 2020 - Generalized Sparse Convolutional Neural Networks f.pdf:application/pdf},
+}
+
+@inproceedings{lampert_gaia_2022,
+	address = {Innsbruck, Austria},
+	title = {{gAia}: predicting landslides based on consolidated inventory data–bridging needs and limitations},
+	url = {http://www.ifs.tuwien.ac.at/~mayer/publications/pdf/2022_lampert_gaia.pdf},
+	author = {Lampert, Jasmin and Wernhart, Susanna and Avian, Michael and Schlögl, Matthias and Seewald, Michaela and Jung, Martin and Osterman, Marc and Kastner, Rene and Mayer, Rudolf and Siposova, Andrea},
+	month = nov,
+	year = {2022},
+	pages = {43--45},
+}
+
+@article{siposova_supporting_2023,
+	title = {Supporting {Landslide} {Disaster} {Risk} {Reduction} {Using} {Data}-driven {Methods} {Siposova}, {A}., {Mayer}, {R}., {Schlögl}, {M}. and {Lampert}, {J}., 2023. ,},
+	url = {https://ercim-news.ercim.eu/images/stories/EN135/EN135-web.pdf},
+	number = {135},
+	journal = {ERCIM NEWS-European Research Consortium for Informatics and Mathematics},
+	author = {Siposova, Andrea and Mayer, Rudolf and Schlögl, Matthias and Lampert, Jasmin},
+	month = oct,
+	year = {2023},
+	pages = {10--11},
+}
+
+@inproceedings{waltersdorfer_advancing_2024,
+	address = {Interpraevent 2024, Vienna, Austria},
+	title = {Advancing {Data} {Management} {In} {Mountain} {Hazard} {Research}: {Strategies} {For} {Ensuring} {Data} {Quality} {And} {Enhancing} {Modeling} {Capabilities}},
+	url = {https://www.interpraevent.at/en/proceeding/proceedings-ip-2024},
+	booktitle = {Proceedings {IP} 2024},
+	year = {2024},
+	author = {Waltersdorfer, Laura and Siposova, Andrea and Schlögl, Matthias and Mayer, Rudolf},
+}
+
+@article{siposova_datenexfiltration_2024,
+	title = {Datenexfiltration mit {Hilfe} von {Modellen} des maschinellen {Lernens}},
+	url = {https://www.yumpu.com/de/document/read/68630908/it-nachwuchsforschung-in-osterreich},
+	number = {01},
+	journal = {OCG Journal, Austrian Computer Society},
+	author = {Siposova, Andrea},
+	year = {2024},
+	pages = {20--21},
+}
