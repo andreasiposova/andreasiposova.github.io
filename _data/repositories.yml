@@ -5,10 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - andreasiposova/MapReduce-Review-Analyzer
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sbaresearch/featurecloud-LSB-sanitization-app
+  - sbaresearch/featurecloud-parameter-based-neuron-pruning-app
+  - sbaresearch/featurecloud-sign-modification-app
