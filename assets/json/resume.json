@@ -1,115 +1,134 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andrea Siposova",
+    "role": "Machine Learning Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "siposova.andrea@gmail.com",
+    "phone": "+972 52 968-2068",
+    "website": "<a href='https://andreasiposova.github.io/'> andreasiposova.github.io",
+    "summary": "Machine Learning researcher with 6+ years of experience, specializing in AI security and privacy-preserving machine learning. My experience includes designing and executing complex experiments, and deriving insights for improving model security and data confidentiality. Proven ability in project management and collaboration with cross-functional teams to advance research and development initiatives. Holding a Master’s degree in Data Science from Vienna University of Technology, with a thesis in the field of machine learning security.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Tel Aviv",
+      "countryCode": "Israel"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "andreasiposova",
+        "url": "https://github.com/andreasiposova"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "<a href='https://www.sba-research.org'> SBA Research",
+      "position": "Machine Learning Researcher",
+      "url": "https://www.sba-research.org/research/research-groups/mldm/",
+      "startDate": "2019-10-01",
+      "endDate": "2024-04-30",
+      "highlights": ["Conducted systematic empirical studies to assess and enhance AI security and data confidentiality.",
+      "Designed experiments evaluating trade-oﬀs between attack and defense utility, model eﬀectiveness and robustness.",
+      "Developed 4 defense applications to integrate in a federated learning framework used across 3+ research projects.",
+      "Authored 6+ reports and articles detailing the methodologies, results, and implications in machine learning security and adversarial ML,supporting both internal knowledge sharing and external publications. Contributed to project proposals."
+],
+      "summary": ["<a href='https://www.sba-research.org/research/research-groups/mldm/'> Machine Learning and Data Management Group"]
+
+    },
+        {
+      "name": "<a href='https://www.sba-research.org'> SBA Research",
+      "position": "Research Project Manager",
+      "url": "https://www.sba-research.org/research/research-groups/mldm/",
+      "startDate": "2021-10-01",
+      "endDate": "2024-04-30",
+      "highlights": ["Led a climate research project over 2.5 years focusing on landslide risk assessment.",
+      "Coordinated a multidisciplinary team of 15 experts resulting in solutions for landslide detection and susceptibility modeling.",
+      "Led a technical work package on data harmonization and model fusion, increased the change detection precision by 18%, efficiency by ~20%.",
+      "Contributed to the development of a data management workflow in the field of geo-sciences.",
+        "Organized a workshop on data management strategies to equip stakeholders in enhancing reproducibility, and data reliability.",
+        "Held focus groups to assess domain experts' needs and gather feedback for development."
+],
+      "summary": ["<a href='https://www.kiras.at/en/financed-proposals/detail/predicting-landslides-entwicklung-von-gefahrenhinweiskarten-fuer-hangrutschungen-aus-konsolidierten-inventardaten'> gAia Project", "funded by <a href='https://www.kiras.at/en/home/'> The Austrian Security Research Program"]
+
+    },
+            {
+      "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
+      "position": "Security Researcher",
+      "url": "https://tuwien.at/en",
+      "startDate": "2023-12-01",
+      "endDate": "2024-03-31",
+      "highlights": ["Conducted security assessments of federated learning systems to identify vulnerabilities and enhance data confidentiality.",
+      "Designed proof-of-concept of defenses to safeguard sensitive data in a federated learning environment.",
+      "Collaborated with partners in an international consortium consisting of 17 organizations from 11 countries."
+],
+      "summary": ["<a href='https://informatics.tuwien.ac.at/orgs/e194-04'> Research Unit Data Science, Institute Of Information Systems Engineering", "<a href='https://defence-industry-space.ec.europa.eu/system/files/2023-06/NEWSROOM-Factsheet_EDF22.pdf'> European Defence Fund project focusing on Cyber Situational Awareness"]
+
+    },
+                {
+      "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
+      "position": "Machine Learning Tutor",
+      "url": "https://tuwien.at/en",
+      "startDate": "2020-09-01",
+      "endDate": "2023-01-31",
+      "highlights": ["Developed and structured comprehensive machine learning assignments, actively collaborating with faculty members.",
+      "Conducted thorough assessment of over 500 student projects providing constructive feedback."
+]
+    },
+                {
+      "name": "<a href='https://wu.ac.at/en'> WU Wien (Vienna University of Economics and Business)",
+      "position": "Machine Learning Researcher",
+      "url": "https://wu.ac.at/en",
+      "startDate": "2017-08-01",
+      "endDate": "2019-09-30",
+      "highlights": ["Contributed to the development of object detection and image segmentation approaches.",
+      "Played a key role in project management, overseeing the project timeline, deliverables, and resource allocation.",
+      "Contributed to project reporting by ensuring accurate and timely documentation of research activities."
+],
+      "summary": ["<a href='https://www.wu.ac.at/en/firm'> Research Institute for Computational Methods"]
+
+    },
+                    {
+      "name": "<a href='https://ondewo.com'> Ondewo)",
+      "position": "Research Intern",
+      "url": "https://ondewo.com",
+      "startDate": "2017-10-01",
+      "endDate": "2018-01-31",
+      "highlights": [
+        "Implemented advanced NLP techniques for a conversational chatbot, focusing on named entity recognition (NER) and intent detection.",
+        "Conducted data preprocessing and feature engineering to enhance the performance of deep learning models for NLP tasks.",
+      "Performed an analysis of model outcomes and documented the development process and findings."
+]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "<a href='https://www.tuwien.at/en/'> TU Wien (Vienna University of Technology)",
+      "location": "Vienna, Austria",
+      "url": "https://www.tuwien.at/en/",
+      "area": "Data Science",
+      "studyType": "MSc. (Dipl.Ing.)",
+      "startDate": "2019-02-19",
+      "endDate": "2023-07-11",
+      "score": "100",
+      "courses": ["<a href='https://doi.org/10.34726/hss.2023.92803'> Diploma Thesis: Data Exfiltration Attacks and Defenses in Neural Networks:",
+      "Simulated data exfiltration attacks on neural networks through intentional memorization in white-box and black-box scenarios.",
+      "Conducted in-depth evaluation of attack effectiveness regarding various attack hyperparameters and evaluated attack vs. defense vs. model utility trade-oﬀs.",
+      "Designed and applied defense mechanisms, enhancing neural network security and robustness against exfiltration threats.",
+      "Introduced a taxonomy of data exfiltration attacks in machine learning.",
+      "Thesis & Defensio grade: 100%, Coursework grade average: 89%"
+      ]
+    },
+    {
+      "institution": "<a href='https://www.wu.ac.at/en/'> WU Wien (Vienna University of Economics and Business)",
+      "location": "Vienna, Austria",
+      "url": "https://www.wu.ac.at/en/",
+      "area": "Information Systems",
+      "studyType": "BSc.",
+      "startDate": "2015-10-01",
+      "endDate": "2018-11-18",
+      "score": "100",
+      "courses": ["Data Science, Business Information Systems"]
     }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+
   ],
   "publications": [
     {
@@ -136,28 +155,77 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming & Scripting",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "SQL"
       ]
-    }
+    },
+        {
+      "name": "Libraries & Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "Tensorflow",
+        "ONNX",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scikit-learn",
+        "seaborn"
+      ]
+    },
+  {
+    "name": "Development Tools",
+    "level": "Master",
+    "icon": "fa-solid fa-tools",
+    "keywords": [
+      "Git",
+      "Docker",
+      "Weights & Biases",
+      "MLFlow",
+      "Anaconda",
+      "Jupyter Notebooks"
+    ]
+  },
+      {
+    "name": "Research Writing",
+    "level": "Master",
+    "icon": "fa-solid fa-file-alt",
+    "keywords": [
+      "LaTeX",
+      "Microsoft Office"
+    ]
+  }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Full proficiency",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Slovak",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Czech",
+      "fluency": "Full proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Intermediate proficiency",
       "icon": ""
     }
   ],
