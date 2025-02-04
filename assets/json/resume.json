@@ -24,8 +24,8 @@
       "name": "<a href='https://www.sba-research.org'> SBA Research",
       "position": "Machine Learning Researcher",
       "url": "https://www.sba-research.org/research/research-groups/mldm/",
-      "startDate": "2019-10-01",
-      "endDate": "2024-04-30",
+      "startDate": "2019-10",
+      "endDate": "2024-04",
       "highlights": ["Conducted systematic empirical studies to assess and enhance AI security and data confidentiality.",
       "Designed experiments evaluating trade-oﬀs between attack and defense utility, model eﬀectiveness and robustness.",
       "Developed 4 defense applications to integrate in a federated learning framework used across 3+ research projects.",
@@ -38,8 +38,8 @@
       "name": "<a href='https://www.sba-research.org'> SBA Research",
       "position": "Research Project Manager",
       "url": "https://www.sba-research.org/research/research-groups/mldm/",
-      "startDate": "2021-10-01",
-      "endDate": "2024-04-30",
+      "startDate": "2021-10",
+      "endDate": "2024-04",
       "highlights": ["Led a climate research project over 2.5 years focusing on landslide risk assessment.",
       "Coordinated a multidisciplinary team of 15 experts resulting in solutions for landslide detection and susceptibility modeling.",
       "Led a technical work package on data harmonization and model fusion, increased the change detection precision by 18%, efficiency by ~20%.",
@@ -47,28 +47,28 @@
         "Organized a workshop on data management strategies to equip stakeholders in enhancing reproducibility, and data reliability.",
         "Held focus groups to assess domain experts' needs and gather feedback for development."
 ],
-      "summary": ["<a href='https://www.kiras.at/en/financed-proposals/detail/predicting-landslides-entwicklung-von-gefahrenhinweiskarten-fuer-hangrutschungen-aus-konsolidierten-inventardaten'> gAia Project", "funded by <a href='https://www.kiras.at/en/home/'> The Austrian Security Research Program"]
+      "summary": ["<a href='https://www.kiras.at/en/financed-proposals/detail/predicting-landslides-entwicklung-von-gefahrenhinweiskarten-fuer-hangrutschungen-aus-konsolidierten-inventardaten'> gAia Project </a>", "funded by <a href='https://www.kiras.at/en/home/'> The Austrian Security Research Program"]
 
     },
             {
       "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
       "position": "Security Researcher",
       "url": "https://tuwien.at/en",
-      "startDate": "2023-12-01",
-      "endDate": "2024-03-31",
+      "startDate": "2023-12",
+      "endDate": "2024-03",
       "highlights": ["Conducted security assessments of federated learning systems to identify vulnerabilities and enhance data confidentiality.",
       "Designed proof-of-concept of defenses to safeguard sensitive data in a federated learning environment.",
       "Collaborated with partners in an international consortium consisting of 17 organizations from 11 countries."
 ],
-      "summary": ["<a href='https://informatics.tuwien.ac.at/orgs/e194-04'> Research Unit Data Science, Institute Of Information Systems Engineering", "<a href='https://defence-industry-space.ec.europa.eu/system/files/2023-06/NEWSROOM-Factsheet_EDF22.pdf'> European Defence Fund project focusing on Cyber Situational Awareness"]
+      "summary": ["<a href='https://defence-industry-space.ec.europa.eu/system/files/2023-06/NEWSROOM-Factsheet_EDF22.pdf'> European Defence Fund project focusing on Cyber Situational Awareness</a> at the <a href='https://informatics.tuwien.ac.at/orgs/e194-04'> Research Unit Data Science, Institute Of Information Systems Engineering</a>"]
 
     },
                 {
       "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
       "position": "Machine Learning Tutor",
       "url": "https://tuwien.at/en",
-      "startDate": "2020-09-01",
-      "endDate": "2023-01-31",
+      "startDate": "2020-09",
+      "endDate": "2023-01",
       "highlights": ["Developed and structured comprehensive machine learning assignments, actively collaborating with faculty members.",
       "Conducted thorough assessment of over 500 student projects providing constructive feedback."
 ]
@@ -77,21 +77,21 @@
       "name": "<a href='https://wu.ac.at/en'> WU Wien (Vienna University of Economics and Business)",
       "position": "Machine Learning Researcher",
       "url": "https://wu.ac.at/en",
-      "startDate": "2017-08-01",
-      "endDate": "2019-09-30",
+      "startDate": "2017-08",
+      "endDate": "2019-09",
       "highlights": ["Contributed to the development of object detection and image segmentation approaches.",
       "Played a key role in project management, overseeing the project timeline, deliverables, and resource allocation.",
       "Contributed to project reporting by ensuring accurate and timely documentation of research activities."
 ],
-      "summary": ["<a href='https://www.wu.ac.at/en/firm'> Research Institute for Computational Methods"]
+      "summary": ["<a href='https://austria-in-space.at/en/projects/2016/reklasat-3d.php'> ReKlaSAT3D </a> project at the <a href='https://www.wu.ac.at/en/firm'> Research Institute for Computational Methods </a> funded by the <a href='https://www.ffg.at/content/austrian-space-applications-programme'> Austrian Space Application Programme"]
 
     },
                     {
-      "name": "<a href='https://ondewo.com'> Ondewo)",
+      "name": "<a href='https://ondewo.com'> Ondewo",
       "position": "Research Intern",
       "url": "https://ondewo.com",
-      "startDate": "2017-10-01",
-      "endDate": "2018-01-31",
+      "startDate": "2017-10",
+      "endDate": "2018-01",
       "highlights": [
         "Implemented advanced NLP techniques for a conversational chatbot, focusing on named entity recognition (NER) and intent detection.",
         "Conducted data preprocessing and feature engineering to enhance the performance of deep learning models for NLP tasks.",
@@ -106,8 +106,8 @@
       "url": "https://www.tuwien.at/en/",
       "area": "Data Science",
       "studyType": "MSc. (Dipl.Ing.)",
-      "startDate": "2019-02-19",
-      "endDate": "2023-07-11",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "100",
       "courses": ["<a href='https://doi.org/10.34726/hss.2023.92803'> Diploma Thesis: Data Exfiltration Attacks and Defenses in Neural Networks:",
       "Simulated data exfiltration attacks on neural networks through intentional memorization in white-box and black-box scenarios.",
@@ -123,40 +123,17 @@
       "url": "https://www.wu.ac.at/en/",
       "area": "Information Systems",
       "studyType": "BSc.",
-      "startDate": "2015-10-01",
-      "endDate": "2018-11-18",
+      "startDate": "2015",
+      "endDate": "2018",
       "score": "100",
       "courses": ["Data Science, Business Information Systems"]
     }
 
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+    "skills": [
     {
       "name": "Programming & Scripting",
-      "level": "Master",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
@@ -166,46 +143,95 @@
     },
         {
       "name": "Libraries & Frameworks",
-      "level": "Master",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PyTorch",
-        "Tensorflow",
-        "ONNX",
-        "pandas",
-        "numpy",
-        "matplotlib",
-        "scikit-learn",
-        "seaborn"
+        "ML & DL: scikit-learn, PyTorch, Tensorflow, ONNX",
+        "Data Processing & Analysis: numpy, pandas, SciPy",
+        "Data Visualization: matplotlib, seaborn, bokeh",
+        "Databases: neo4j, PostgreSQL"
       ]
     },
   {
     "name": "Development Tools",
-    "level": "Master",
+    "level": "",
     "icon": "fa-solid fa-tools",
     "keywords": [
-      "Git",
-      "Docker",
-      "Weights & Biases",
-      "MLFlow",
+      "Versioning: Git",
+      "Containerization: Docker",
+      "Experiment tracking & Registry: Weights & Biases, MLFlow",
       "Anaconda",
       "Jupyter Notebooks"
     ]
   },
       {
-    "name": "Research Writing",
-    "level": "Master",
+    "name": "Other",
+    "level": "",
     "icon": "fa-solid fa-file-alt",
     "keywords": [
-      "LaTeX",
-      "Microsoft Office"
+      "Scientific writing: LaTeX",
+      "OS: Linux",
+      "MS Office"
     ]
   }
   ],
+  "publications": [
+    {
+      "name": "Advancing Data Management In Mountain Hazard Research: Strategies For Ensuring Data Quality And Enhancing Modeling Capabilities",
+      "publisher": "Interpraevent 2024",
+      "releaseDate": "2024",
+      "url": "https://www.interpraevent.at/en/proceeding/proceedings-ip-2024",
+      "summary": ""
+    },
+    {
+      "name": "Adopting FAIR data management practices in mountain hazard research: Strategies for ensuring data quality for landslide susceptibility modeling",
+      "publisher": " EGU General Assembly 2024",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.5194/egusphere-egu24-18951",
+      "summary": ""
+    },
+    {
+      "name": "Datenexfiltration mit Hilfe von Modellen des maschinellen Lernens",
+      "publisher": "OCG Journal. Austrian Computer Society. 01:20-21.",
+      "releaseDate": "2024",
+      "url": "https://www.yumpu.com/de/document/read/68630908/it-nachwuchsforschung-in-osterreich",
+      "summary": ""
+    },
+        {
+      "name": "Supporting Landslide Disaster Risk Reduction Using Data-driven Methods",
+      "publisher": "ERCIM NEWS-European Research Consortium for Informatics and Mathematics, 135:10-11.",
+      "releaseDate": "2023",
+      "url": "https://ercim-news.ercim.eu/en135/special/supporting-landslide-disaster-risk-reduction-using-data-driven-methods",
+      "summary": ""
+    },
+        {
+      "name": "Data Exfiltration Attacks and Defenses in Neural Networks",
+      "publisher": "Diploma Thesis, TU Wien",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.34726/hss.2023.92803",
+      "summary": ""
+    },
+
+            {
+      "name": "gAia: predicting landslides based on consolidated inventory data–bridging needs and limitations.",
+      "publisher": "Disaster Research Days 2022. 43-45.",
+      "releaseDate": "2022",
+      "url": "http://www.ifs.tuwien.ac.at/~mayer/publications/pdf/2022_lampert_gaia.pdf",
+      "summary": ""
+    },
+                {
+      "name": "Generalized sparse convolutional neural networks for semantic segmentation of point clouds derived from tri-stereo satellite imagery.",
+      "publisher": "Remote Sensing, 12(8), p.1289.",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.3390/rs12081289",
+      "summary": ""
+    }
+  ],
+
   "languages": [
     {
-      "language": "German",
-      "fluency": "Full proficiency",
+      "language": "Slovak",
+      "fluency": "Native speaker",
       "icon": ""
     },
     {
@@ -213,9 +239,9 @@
       "fluency": "Full proficiency",
       "icon": ""
     },
-    {
-      "language": "Slovak",
-      "fluency": "Native speaker",
+        {
+      "language": "German",
+      "fluency": "Full proficiency",
       "icon": ""
     },
     {
@@ -231,38 +257,38 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Privacy-Preserving ML",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+        {
+      "name": "Adversarial ML",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+            {
+      "name": "AI Safety",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+                {
+      "name": "Digital Rights Management / IP Protection",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "summary": "",
+      "highlights": ["", ""],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
