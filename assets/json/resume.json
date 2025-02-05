@@ -29,7 +29,7 @@
       "highlights": ["Conducted systematic empirical studies to assess and enhance AI security and data confidentiality.",
       "Designed experiments evaluating trade-oﬀs between attack and defense utility, model eﬀectiveness and robustness.",
       "Developed 4 defense applications to integrate in a federated learning framework used across 3+ research projects.",
-      "Authored 6+ reports and articles detailing the methodologies, results, and implications in machine learning security and adversarial ML,supporting both internal knowledge sharing and external publications. Contributed to project proposals."
+      "Authored 10+ reports and articles detailing the methodologies, results, and implications in machine learning security and adversarial ML,supporting both internal knowledge sharing and external publications. Contributed to project proposals."
 ],
       "summary": ["<a href='https://www.sba-research.org/research/research-groups/mldm/'> Machine Learning and Data Management Group"]
 
@@ -81,7 +81,7 @@
       "endDate": "2019-09",
       "highlights": ["Contributed to the development of object detection and image segmentation approaches.",
       "Played a key role in project management, overseeing the project timeline, deliverables, and resource allocation.",
-      "Contributed to project reporting by ensuring accurate and timely documentation of research activities."
+      "Authored project reports and ensured accurate and timely documentation of research activities."
 ],
       "summary": ["<a href='https://austria-in-space.at/en/projects/2016/reklasat-3d.php'> ReKlaSAT3D </a> project at the <a href='https://www.wu.ac.at/en/firm'> Research Institute for Computational Methods </a> funded by the <a href='https://www.ffg.at/content/austrian-space-applications-programme'> Austrian Space Application Programme"]
 
@@ -132,24 +132,22 @@
   ],
     "skills": [
     {
-      "name": "Programming & Scripting",
+      "name": "Programming",
       "level": "",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa fa-code",
       "keywords": [
         "Python",
-        "R",
-        "SQL"
+        "R"
       ]
     },
         {
       "name": "Libraries & Frameworks",
       "level": "",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa fa-flask",
       "keywords": [
         "ML & DL: scikit-learn, PyTorch, Tensorflow, ONNX",
         "Data Processing & Analysis: numpy, pandas, SciPy",
-        "Data Visualization: matplotlib, seaborn, bokeh",
-        "Databases: neo4j, PostgreSQL"
+        "Data Visualization: matplotlib, seaborn, bokeh"
       ]
     },
   {
@@ -164,6 +162,13 @@
       "Jupyter Notebooks"
     ]
   },
+      {
+        "name": "Query Languages",
+        "level": "",
+        "icon": "fa fa-database",
+        "keywords": ["SQL", "Cypher (neo4j)"]
+
+      },
       {
     "name": "Other",
     "level": "",
