@@ -38,7 +38,7 @@ Start by defining what AI systems should and should not do, and then develop sec
 - **Secure by Design Approach:** 
 This approach emphasizes integrating security considerations into the initial design of AI systems, rather than relying solely on post-development or post-deployment testing.
 - **Comprehensive Testing:** 
-While red teaming can be useful, it should be part of a broader testing strategy that includes systematic design and evaluation. This might involve using AI itself to generate adversarial examples and test robustness.
+While red teaming can be useful, it should be part of a broader testing strategy that includes systematic design and evaluation.
 - **Integration with Traditional Security Practices:** 
 Adopt frameworks similar to the Common Vulnerabilities and Exposures (CVE) system to standardize AI vulnerability reporting and management. Adapt traditional vulnerability disclosure programs to fit the unique needs of AI, including bug bounties and designing a model card system that aligns with such programs.
 - **Collaboration and Standardization:** 
