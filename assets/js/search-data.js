@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-european-commission-publishes-guidelines-on-prohibited-ai-practices-under-the-ai-act",
+            },{id: "post-rethinking-ai-red-teaming-and-the-future-of-ai-security",
+      
+        title: "Rethinking AI Red Teaming and the Future of AI Security",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/rethinking-ai-red-teaming/";
+        
+      },
+    },{id: "post-european-commission-publishes-guidelines-on-prohibited-ai-practices-under-the-ai-act",
       
         title: "European Commission Publishes Guidelines on Prohibited AI Practices Under the AI Act",
       
