@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -65,7 +65,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-rethinking-ai-red-teaming-and-the-future-of-ai-security",
+            },{id: "post-agentic-ai-summit",
+      
+        title: "Agentic AI Summit",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/agentic-ai-summit/";
+        
+      },
+    },{id: "post-can-reinforcement-learning-from-human-feedback-be-turned-into-an-attack-vector-for-ai",
+      
+        title: "Can reinforcement learning from human feedback be turned into an attack vector for...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/rlhf-attack-vector/";
+        
+      },
+    },{id: "post-think-your-data-is-safe-because-you-only-shared-embeddings-and-kept-the-model-private",
+      
+        title: "Think your data is safe because you only shared embeddings and kept the...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/sharing-embeddings-unsafe-data-security/";
+        
+      },
+    },{id: "post-rethinking-ai-red-teaming-and-the-future-of-ai-security",
       
         title: "Rethinking AI Red Teaming and the Future of AI Security",
       
@@ -109,17 +142,16 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-eu-commission-publishes-guidelines-on-prohibited-ai-practices",
+    },{id: "news-eu-commission-publishes-guidelines-on-prohibited-ai-practices",
           title: 'EU Commission Publishes Guidelines on Prohibited AI Practices.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ai-act-prohibited-practices/";
+            },},{id: "news-agentic-ai-summit-2025-highlights",
+          title: 'Agentic AI Summit 2025 Highlights',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/agentic-ai-summit/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
