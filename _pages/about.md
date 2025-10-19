@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. siposova.andrea@gmail.com. +972 52 968 2068. Tel Aviv, Israel.
+subtitle: <a href='#'>Affiliations</a>. siposova.andrea@gmail.com. Tel Aviv, Israel.
 
 profile:
   align: right
@@ -26,12 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I am Andrea, a machine learning researcher with over 6 years of experience.
+Hey there! I am Andrea, an AI researcher and data scientist with over 6 years of experience.
 
-In the last 4 years, my research focus has been on privacy-preserving machine learning and the security and safety of AI.
-I spend my time developing and conducting experiments to enhance model security and data confidentiality.
+In the last 4 years, my research focus has been on the security and safety of AI and privacy-preserving machine learning.
+I spend my time developing and conducting experiments to enhance model security and data confidentiality. Having lived in 4 countries, I’ve learned to adapt quickly and approach problems from different angles. I’m motivated by creating solutions that genuinely help people, and I see advancing data security and privacy as meaningful work that I want to keep driving forward.
 
-I’ve been lucky enough to work with some great teams along the way.
+Along the way, I’ve been lucky enough to work with some great teams.
 Most recently, I worked within the [Machine Learning and Data Management Group](https://www.sba-research.org/research/research-groups/mldm/) at [SBA Research](https://www.sba-research.org/), where I focused on addressing challenges in the domain of secure and privacy-preserving machine learning. My work encompassed exploring data anonymization techniques, intentional memorization in ML models, as well as the mitigation of training data exfiltration.
 I have also developed defense applications implemented in a federated learning platform for healthcare applications [FeatureCloud](https://www.featurecloud.eu), which offer protection against exfiltration risks, while maintaining model utility.
 
