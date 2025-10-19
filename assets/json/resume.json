@@ -4,7 +4,6 @@
     "role": "Machine Learning Researcher",
     "image": "",
     "email": "siposova.andrea@gmail.com",
-    "phone": "+972 52 968-2068",
     "website": "<a href='https://andreasiposova.github.io/'> andreasiposova.github.io",
     "summary": "Machine Learning researcher with 6+ years of experience, specializing in AI security and privacy-preserving machine learning. My experience includes designing and executing complex experiments, and deriving insights for improving model security and data confidentiality. Proven ability in project management and collaboration with cross-functional teams to advance research and development initiatives. Holding a Master’s degree in Data Science from Vienna University of Technology, with a thesis in the field of machine learning security.",
     "location": {
@@ -22,44 +21,27 @@
   "work": [
     {
       "name": "<a href='https://www.sba-research.org'> SBA Research",
-      "position": "Machine Learning Researcher",
+      "position": "AI Security Researcher",
       "url": "https://www.sba-research.org/research/research-groups/mldm/",
-      "startDate": "2019-10",
-      "endDate": "2024-04",
-      "highlights": ["Conducted systematic empirical studies to assess and enhance AI security and data confidentiality.",
-      "Designed experiments evaluating trade-oﬀs between attack and defense utility, model eﬀectiveness and robustness.",
-      "Developed 4 defense applications to integrate in a federated learning framework used across 3+ research projects.",
-      "Authored 10+ reports and articles detailing the methodologies, results, and implications in machine learning security and adversarial ML,supporting both internal knowledge sharing and external publications. Contributed to project proposals."
-],
+      "startDate": "2019",
+      "endDate": "2024",
       "summary": ["<a href='https://www.sba-research.org/research/research-groups/mldm/'> Machine Learning and Data Management Group"]
 
     },
         {
       "name": "<a href='https://www.sba-research.org'> SBA Research",
-      "position": "Research Project Manager",
+      "position": "Data Scientist",
       "url": "https://www.sba-research.org/research/research-groups/mldm/",
-      "startDate": "2021-10",
-      "endDate": "2024-04",
-      "highlights": ["Led a climate research project over 2.5 years focusing on landslide risk assessment.",
-      "Coordinated a multidisciplinary team of 15 experts resulting in solutions for landslide detection and susceptibility modeling.",
-      "Led a technical work package on data harmonization and model fusion, increased the change detection precision by 18%, efficiency by ~20%.",
-      "Contributed to the development of a data management workflow in the field of geo-sciences.",
-        "Organized a workshop on data management strategies to equip stakeholders in enhancing reproducibility, and data reliability.",
-        "Held focus groups to assess domain experts' needs and gather feedback for development."
-],
+      "startDate": "2021",
+      "endDate": "2024",
       "summary": ["<a href='https://www.kiras.at/en/financed-proposals/detail/predicting-landslides-entwicklung-von-gefahrenhinweiskarten-fuer-hangrutschungen-aus-konsolidierten-inventardaten'> gAia Project </a>", "funded by <a href='https://www.kiras.at/en/home/'> The Austrian Security Research Program"]
-
     },
             {
       "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
       "position": "Security Researcher",
       "url": "https://tuwien.at/en",
-      "startDate": "2023-12",
-      "endDate": "2024-03",
-      "highlights": ["Conducted security assessments of federated learning systems to identify vulnerabilities and enhance data confidentiality.",
-      "Designed proof-of-concept of defenses to safeguard sensitive data in a federated learning environment.",
-      "Collaborated with partners in an international consortium consisting of 17 organizations from 11 countries."
-],
+      "startDate":"2024",
+      "endDate": "2024",
       "summary": ["<a href='https://defence-industry-space.ec.europa.eu/system/files/2023-06/NEWSROOM-Factsheet_EDF22.pdf'> European Defence Fund project focusing on Cyber Situational Awareness</a> at the <a href='https://informatics.tuwien.ac.at/orgs/e194-04'> Research Unit Data Science, Institute Of Information Systems Engineering</a>"]
 
     },
@@ -67,36 +49,26 @@
       "name": "<a href='https://tuwien.at/en'> TU Wien (Vienna University of Technology)",
       "position": "Machine Learning Tutor",
       "url": "https://tuwien.at/en",
-      "startDate": "2020-09",
-      "endDate": "2023-01",
-      "highlights": ["Developed and structured comprehensive machine learning assignments, actively collaborating with faculty members.",
-      "Conducted thorough assessment of over 500 student projects providing constructive feedback."
-]
+      "startDate": "2020",
+      "endDate": "2023"
     },
                 {
       "name": "<a href='https://wu.ac.at/en'> WU Wien (Vienna University of Economics and Business)",
       "position": "Machine Learning Researcher",
       "url": "https://wu.ac.at/en",
-      "startDate": "2017-08",
-      "endDate": "2019-09",
-      "highlights": ["Contributed to the development of object detection and image segmentation approaches.",
-      "Played a key role in project management, overseeing the project timeline, deliverables, and resource allocation.",
-      "Authored project reports and ensured accurate and timely documentation of research activities."
-],
+      "startDate": "2017",
+      "endDate": "2019",
+      "highlights":[],
       "summary": ["<a href='https://austria-in-space.at/en/projects/2016/reklasat-3d.php'> ReKlaSAT3D </a> project at the <a href='https://www.wu.ac.at/en/firm'> Research Institute for Computational Methods </a> funded by the <a href='https://www.ffg.at/content/austrian-space-applications-programme'> Austrian Space Application Programme"]
 
     },
                     {
       "name": "<a href='https://ondewo.com'> Ondewo",
-      "position": "Research Intern",
+      "position": "NLP Intern",
       "url": "https://ondewo.com",
-      "startDate": "2017-10",
-      "endDate": "2018-01",
-      "highlights": [
-        "Implemented advanced NLP techniques for a conversational chatbot, focusing on named entity recognition (NER) and intent detection.",
-        "Conducted data preprocessing and feature engineering to enhance the performance of deep learning models for NLP tasks.",
-      "Performed an analysis of model outcomes and documented the development process and findings."
-]
+      "startDate": "2017",
+      "endDate": "2017",
+      "highlights": []
     }
   ],
   "education": [
@@ -132,7 +104,7 @@
   ],
     "skills": [
     {
-      "name": "Programming",
+      "name": "Programming & Data Science",
       "level": "",
       "icon": "fa fa-code",
       "keywords": [
@@ -145,9 +117,7 @@
       "level": "",
       "icon": "fa fa-flask",
       "keywords": [
-        "ML & DL: scikit-learn, PyTorch, Tensorflow, ONNX",
-        "Data Processing & Analysis: numpy, pandas, SciPy",
-        "Data Visualization: matplotlib, seaborn, bokeh"
+        "NumPy, pandas, scikit-learn, PyTorch, Tensorflow, ONNX, Hugging Face, LangChain, OpenAI, SciPy, matplotlib, seaborn"
       ]
     },
   {
@@ -155,18 +125,15 @@
     "level": "",
     "icon": "fa-solid fa-tools",
     "keywords": [
-      "Versioning: Git",
-      "Containerization: Docker",
-      "Experiment tracking & Registry: Weights & Biases, MLFlow",
-      "Anaconda",
-      "Jupyter Notebooks"
+      "Git, Docker",
+      "Experiment tracking & Registry: Weights & Biases, MLFlow"
     ]
   },
       {
-        "name": "Query Languages",
+        "name": "Data",
         "level": "",
         "icon": "fa fa-database",
-        "keywords": ["SQL", "Cypher (neo4j)"]
+        "keywords": ["Reational DBs, GraphDBs, VectorDB", "SQL, Cypher (neo4j), Qdrant, FAISS"]
 
       },
       {
