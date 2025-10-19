@@ -2,84 +2,118 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Andrea Siposova
     - name: Languages
-      value: English, German
+      value: English, German, Slovak, Czech, Hebrew
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI Security Researcher
+      institution: SBA Research, Machine Learning and Data Management Group
+      year: 2019 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+
+    - title: Data Science Project Lead
+      institution: SBA Research, Machine Learning and Data Management Group
+      year: 2021 - 2024
+      description:
+        - title: gAia, funded by KIRAS, The Austrian Security Research Programme
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: Security Researcher
+      institution: Vienna University of Technology
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Data Science Group, Institute Of Information Systems Engineering
+        - title: European Defense Fund project focusing on Cyber Situational Awareness
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Machine Learning Tutor
+      institution: Vienna University of Technology
+      year: 2020 - 2023
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Machine Learning Researcher
+      institution: Vienna University of Economics and Business
+      year: 2017 - 2019
       description:
+        - title: Research Institute for Computational Methods
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: NLP Intern
+      institution: ONDEWO
+      year: 2017 - 2018
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: MSc. (Dipl.Ing.)
+      institution: TU Wien (Vienna University of Technology)
+      year: 2019 - 2023
+      description:
+      - Faculty of Informatics
+      - title: Diploma Thesis
+        contents:
+          - Data Exfiltration Attacks and Defenses in Neural Networks
+          - Simulated data exfiltration attacks on neural networks through intentional memorization in white-box and black-box scenarios.
+          - Conducted in-depth evaluation of attack effectiveness regarding various attack hyperparameters and evaluated attack vs. defense vs. model
+            utility trade-oﬀs.
+          - Designed and applied defense mechanisms, enhancing neural network security and robustness against exfiltration threats.
+          - Introduced a taxonomy of data exfiltration attacks in machine learning.
+          - Thesis & Defensio grade 100%, Coursework grade average 89%
+    - title: BSc.
+      institution: Vienna University of Economics and Business
+      year: 2015 - 2018
+      description:
+        - title: Major
+          contents: Information Systems
+        - title: Specializations
+          contents: Data Science, Business Information Systems
 
-- title: Open Source Projects
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming & Scripting
+      items:
+        - Python
+        - SQL
+        - R
+    - title: Libraries & Frameworks
+      items:
+        - PyTorch
+        - Tensorflow
+        - ONNX
+        - pandas
+        - numpy
+        - scikit-learn
+        - matplotlib
+        - seaborn
+    - title: Versioning & Containerization
+      items:
+        - Git
+        - Docker
+    - title: Data Science Tools
+      items:
+        - Weights&Biases
+        - MLFlow
+        - Anaconda
+        - Jupyter
+    - title: Other
+      items:
+        - Linux
+        - Latex
+        - MS Office
+
+
+
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Topic 1.
@@ -90,8 +124,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
